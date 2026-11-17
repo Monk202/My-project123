@@ -1,6 +1,6 @@
 
 Hey .I have created this from Basic HTML codes.
-<!DOCTYPE html>
+<!
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -46,7 +46,7 @@ Hey .I have created this from Basic HTML codes.
 
 <header>
   <h1>Stepwells of Mandi District</h1>
-  <p>My name is XYZ and this is for my NCSC project.</p>
+  <p>My name is Anshul and this is for my NCSC project.</p>
 </header>
 
 <nav>
@@ -132,7 +132,7 @@ Hey .I have created this from Basic HTML codes.
 
 </main>
 
-<footer>Made by XYZ | NCSC Project | Mandi, Himachal Pradesh</footer>
+<footer>Made by Anshul | NCSC Project | Mandi, Himachal Pradesh</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
@@ -235,3 +235,4 @@ Hey .I have created this from Basic HTML codes.
 
 </body>
 </html>
+Precautions: It is just for research purpose.Data not to be used for any other purposes is prohibited.
